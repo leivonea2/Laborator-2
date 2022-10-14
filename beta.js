@@ -30,7 +30,7 @@ var context = canvas.getContext("2d");
 
 var centru = {x:canvas.width/2, y:canvas.height/2} 
 
-var latura_patrat = 50; 
+var latura_patrat = 300; 
 
   
 
